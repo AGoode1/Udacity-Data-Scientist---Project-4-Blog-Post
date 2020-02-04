@@ -1,6 +1,8 @@
 # Udacity-Data-Scientist---Project-4-Blog-Post
 Code behind the blog post for Udacity Data Scientist Project 4 - Create a blog post. 
 
+Blog post can be found at: https://medium.com/@andrew.goode_70135/ecological-carbon-deficit-are-we-doomed-7550d8a2fd42
+
 File: Project 4 - Data Science.ipynb
 Libraries used: Pandas
                 Matplotlib
